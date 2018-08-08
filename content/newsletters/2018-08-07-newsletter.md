@@ -4,7 +4,7 @@ title = "2018-08-07 Newsletter"
 template = "post.html"
 date = 2018-08-07
 slug = "newsletter"
-tags = [ "systems", "website" ]
+tags = []
 
 [extra]
 author = "mike"
