@@ -1,0 +1,18 @@
+@import "config.scss";
+@import "header.scss";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $font_family;
+    background-color: #f8f8f8;
+
+    .container {
+        width: $max_width;
+        margin: auto;
+        padding: 25px;
+        background-color: white;
+    }
+}
