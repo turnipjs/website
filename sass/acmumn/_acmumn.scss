@@ -10,7 +10,7 @@ body {
     background-color: #f8f8f8;
 
     .container {
-        width: $max_width;
+        max-width: $max_width;
         margin: auto;
         padding: 25px;
         background-color: white;
