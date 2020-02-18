@@ -1,4 +1,4 @@
-break
++++
 title = "New Website"
 template = "post.html"
 
@@ -10,7 +10,7 @@ tags = [ "systems", "website" ]
 
 [extra]
 author = "Michael Zhang"
-break
++++
 
 This is the first blog post!
 
